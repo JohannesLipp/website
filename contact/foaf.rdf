@@ -8,7 +8,6 @@
 <foaf:title>Mr</foaf:title>
 <foaf:givenname>Johannes</foaf:givenname>
 <foaf:family_name>Theissen-Lipp</foaf:family_name>
-<foaf:mbox rdf:resource="mailto:johannes.lipp@rwth-aachen.de"/>
 <foaf:homepage rdf:resource="https://johanneslipp.org/"/>
 <foaf:depiction rdf:resource="https://johanneslipp.org/data/profile.jpg"/>
 <foaf:workplaceHomepage rdf:resource="https://dbis.rwth-aachen.de/dbis/"/>
