@@ -1,0 +1,15 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:Person rdf:ID="me">
+<foaf:name>Johannes Theissen-Lipp</foaf:name>
+<foaf:title>Mr</foaf:title>
+<foaf:givenname>Johannes</foaf:givenname>
+<foaf:family_name>Theissen-Lipp</foaf:family_name>
+<foaf:homepage rdf:resource="https://johanneslipp.org/"/>
+<foaf:depiction rdf:resource="https://johanneslipp.org/data/profile.jpg"/>
+<foaf:workplaceHomepage rdf:resource="https://dbis.rwth-aachen.de/dbis/"/>
+<foaf:workInfoHomepage rdf:resource="https://dbis.rwth-aachen.de/dbis/index.php/user/johannes/"/></foaf:Person>
+</rdf:RDF>
