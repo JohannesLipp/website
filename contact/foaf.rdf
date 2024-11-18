@@ -5,7 +5,7 @@
       xmlns:admin="http://webns.net/mvcb/">
 <foaf:Person rdf:ID="me">
 <foaf:name>Johannes Theissen-Lipp</foaf:name>
-<foaf:title>Mr</foaf:title>
+<foaf:title>Dr.</foaf:title>
 <foaf:givenname>Johannes</foaf:givenname>
 <foaf:family_name>Theissen-Lipp</foaf:family_name>
 <foaf:homepage rdf:resource="https://johanneslipp.org/"/>
